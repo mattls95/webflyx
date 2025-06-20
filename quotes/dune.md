@@ -5,4 +5,8 @@
 <<<<<<< HEAD
 =======
 - "The spice must flow"
+<<<<<<< HEAD
 >>>>>>> 096b03d (H: add quote)
+=======
+- "Fear is the mind-killer"
+>>>>>>> 7a54f5f (I: add quote)
